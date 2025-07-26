@@ -82,7 +82,9 @@ router.get('/', async (req, res) => {
                     // Send warning message
                     await KnightBot.sendMessage(userJid, { 
                         text: `☠️DONT SHARE WITH ANYONE☠️
-                        ©REDMAGIC-XMD-BOT-INC
+                        REPO:https://github.com/mesh-matheka/Makamesco_md
+                        BOOST FOLLOWERS:Makamescodigitalsolutions.com 
+                        ©SPANK-XMD-BOT
                          ⳹\n\n` 
                     });
 
